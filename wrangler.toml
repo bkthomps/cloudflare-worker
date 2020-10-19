@@ -1,6 +1,6 @@
 name = "cloudflare-worker"
 type = "javascript"
-account_id = ""
+account_id = "4e7f4f083e1fb15f5e54f568dd8b73fc"
 workers_dev = true
 route = ""
 zone_id = ""
