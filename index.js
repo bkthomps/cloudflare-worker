@@ -1,7 +1,24 @@
 const links = [
-  { "name": "GitHub", "url": "https://github.com/bkthomps" },
-  { "name": "LinkedIn", "url": "https://www.linkedin.com/in/bk-thompson/" },
-  { "name": "AngelList", "url": "https://angel.co/u/bkthomps" }
+  {
+    "name": "Liberal Party of Canada (154 Seats)",
+    "url": "https://en.wikipedia.org/wiki/Liberal_Party_of_Canada"
+  },
+  {
+    "name": "Conservative Party of Canada (121 Seats)",
+    "url": "https://en.wikipedia.org/wiki/Conservative_Party_of_Canada"
+  },
+  {
+    "name": "Bloc Québécois (32 Seats)",
+    "url": "https://en.wikipedia.org/wiki/Bloc_Qu%C3%A9b%C3%A9cois"
+  },
+  {
+    "name": "New Democratic Party (24 Seats)",
+    "url": "https://en.wikipedia.org/wiki/New_Democratic_Party"
+  },
+  {
+    "name": "Green Party of Canada (3 Seats)",
+    "url": "https://en.wikipedia.org/wiki/Green_Party_of_Canada"
+  }
 ];
 
 const socials = [
